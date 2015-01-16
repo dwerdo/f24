@@ -1,0 +1,30 @@
+.container {
+    width: 960px;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.col-md-4, .col-md-3 {
+    -webkit-transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+    transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+}
+
+#setbtn {
+    float: right;
+}
+
+.headings {
+    float: left;
+}
+
+h4 {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+}
